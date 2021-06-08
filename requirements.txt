@@ -60,7 +60,7 @@ opencv-python==4.1.2.30
 openpyxl==3.0.3
 pandas==1.0.1
 parsel==1.5.2
-Pillow==6.2.1
+Pillow==8.2.0
 pipenv==2018.11.26
 Protego==0.1.16
 proxyscrape==0.3.0
