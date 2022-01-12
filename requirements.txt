@@ -61,7 +61,7 @@ openpyxl==3.0.3
 pandas==1.0.1
 parsel==1.5.2
 Pillow==6.2.1
-pipenv==2018.11.26
+pipenv==2022.1.8
 Protego==0.1.16
 proxyscrape==0.3.0
 psycopg2==2.8.4
