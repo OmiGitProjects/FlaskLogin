@@ -55,7 +55,7 @@ lazy-object-proxy==1.4.3
 lxml==4.5.0
 MarkupSafe==1.1.1
 mccabe==0.6.1
-numpy==1.18.0
+numpy==1.22.0
 opencv-python==4.1.2.30
 openpyxl==3.0.3
 pandas==1.0.1
